@@ -1,0 +1,130 @@
+
+{"products":
+[
+    {
+        "id":1,
+        "image": "database/images-db/Castrol 10-40.jpg",
+        "emertimi":"Vaj Castrol 10/40",
+        "kategoria": "Vajra",
+        "pershkrimi": "Vaj motorik per vetura, lloji 10/40",
+        "cmimi": 5
+        
+    },
+
+    {
+        "id":2,
+        "image": "database/images-db/Castrol 5-40.jpg",
+        "emertimi":"Vaj Castrol 5/40",
+        "kategoria": "Vajra",
+        "pershkrimi": "Vaj motorik per vetura, lloji 5/40",
+        "cmimi": 6
+    },
+
+    {
+        "id":3,
+        "image": "database/images-db/Castrol 5-30.png",
+        "emertimi":"Vaj Castrol 5/30",
+        "kategoria": "Vajra",
+        "pershkrimi": "Vaj motorik per vetura, lloji 5/30",
+        "cmimi": 8
+
+    },
+
+    {
+        "id":4,
+        "image": "database/images-db/Castrol 0-30.jpg",
+        "emertimi":"Vaj Castrol 0/30",
+        "kategoria": "Vajra",
+        "pershkrimi": "Vaj motorik per vetura, lloji 0/30",
+        "cmimi": 10
+
+    },
+    {
+        "id":5,
+        "image": "database/images-db/Castrol 5-30.png",
+        "emertimi":"Vaj Castrol 5/30",
+        "kategoria": "Vajra",
+        "pershkrimi": "Vaj motorik per vetura, lloji 5/30",
+        "cmimi": 8
+
+    },
+    {
+        "id":6,
+        "image": "database/images-db/Castrol 5-40.jpg",
+        "emertimi":"Vaj Castrol 5/40",
+        "kategoria": "Vajra",
+        "pershkrimi": "Vaj motorik per vetura, lloji 5/40",
+        "cmimi": 6
+    },
+
+    {
+        "id":7,
+        "image": "database/images-db/Castrol 10-40.jpg",
+        "emertimi":"Vaj Castrol 10/40",
+        "kategoria": "Vajra",
+        "pershkrimi": "Vaj motorik per vetura, lloji 10/40",
+        "cmimi": 5
+        
+    },
+
+    {
+        "id":8,
+        "image": "database/images-db/Castrol 0-30.jpg",
+        "emertimi":"Vaj Castrol 0/30",
+        "kategoria": "Vajra",
+        "pershkrimi": "Vaj motorik per vetura, lloji 0/30",
+        "cmimi": 10
+
+    },
+    {
+        "id":9,
+        "image": "database/images-db/Castrol 5-30.png",
+        "emertimi":"Vaj Castrol 5/30",
+        "kategoria": "Vajra",
+        "pershkrimi": "Vaj motorik per vetura, lloji 5/30",
+        "cmimi": 8
+
+    },
+    {
+        "id":10,
+        "image": "database/images-db/Castrol 5-30.png",
+        "emertimi":"Vaj Castrol 5/30",
+        "kategoria": "Vajra",
+        "pershkrimi": "Vaj motorik per vetura, lloji 5/30",
+        "cmimi": 8
+
+    },
+    {
+        "id":11,
+        "image": "database/images-db/Castrol 5-30.png",
+        "emertimi":"Vaj Castrol 5/30",
+        "kategoria": "Vajra",
+        "pershkrimi": "Vaj motorik per vetura, lloji 5/30",
+        "cmimi": 8
+
+    },
+    {
+        "id":12,
+        "image": "database/images-db/Castrol 5-30.png",
+        "emertimi":"Vaj Castrol 5/30",
+        "kategoria": "Vajra",
+        "pershkrimi": "Vaj motorik per vetura, lloji 5/30",
+        "cmimi": 8
+
+    },
+    {
+        "id":13,
+        "image": "database/images-db/Castrol 5-30.png",
+        "emertimi":"Abcaj Castrol 5/30",
+        "kategoria": "Vajra",
+        "pershkrimi": "Abcaj motorik per vetura, lloji 5/30",
+        "cmimi": 8
+
+    }
+
+
+
+
+
+]
+}
